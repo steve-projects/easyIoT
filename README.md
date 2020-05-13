@@ -14,7 +14,7 @@ Setup:
 -Create AWS account (if you don't already have one)
 -Log into the AWS console
 -Create a blank Lambda function (up to you for a name)
-  -Make you Lambda Trigger be an IoT
+-Make you Lambda Trigger be an IoT
   -Go through the Dash Button Linking setup (Green light on the Dash means it's good to go!)
 -Replace the existing Lambda Code with the project code.
   -Modify the cell number
